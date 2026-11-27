@@ -13,8 +13,6 @@ most is making them safe to leave alone.
 |---|---|
 | [**claude-mail-guard**](https://github.com/Andreas97401/claude-mail-guard) | Prompt-injection guardrails for Claude Code agents that read email. Once a session has read mail, every exit (network, send, secrets, config) needs a human. Zero deps, 56 tests. |
 | [**teamlean-board**](https://github.com/Andreas97401/teamlean-board) | Agile squad board built for a Curtin team project: blockers, owners with a named reviewer, mood check-in, peer feedback. |
-| [**maison-st-honore-spin**](https://github.com/Andreas97401/maison-st-honore-spin) | Spin-to-win web app for a Perth café. One HTML file + Google Apps Script, no server to run. |
-
 #### 🧰 What I build with
 
 `Claude API` · `Claude Code (skills, hooks, agents)` · `n8n` · `Node.js` · `TypeScript` · `Supabase` · `Stripe` · `Google Workspace APIs`
